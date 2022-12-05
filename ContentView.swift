@@ -28,8 +28,10 @@ struct ContentView: View {
                 } label: {
                     Text("Orlando")
                 }
+                
             }
-            .navigationBarTitle("US Attractions")
+            .navigationBarTitle("US Tourist Attractions")
+         //   .font(.title2)
             .padding(.bottom, 15)
         }
     }
