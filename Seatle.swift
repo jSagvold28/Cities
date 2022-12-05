@@ -36,7 +36,7 @@ struct Seatle: View {
                 .bold()
             
             
-            Text(" Orlando, a city, is the home of Disney World. A popular tourist attraction. Many people come to visit Orlando to see Disney World. Orlando’s range is 119.1 miles big. (308.4 km) It is also known for its beautiful cities.")
+            Text("Seattle is a bustling place that thrives with industrial, commercial, and cultural activity around the clock. Its waters teem with great oceangoing ships, its streets with automobiles, its rail lines with transcontinental freighters and passenger trains, and its skies with aircraft of every description.")
                 .font(.subheadline)
                 .padding(.bottom, 5)
             
