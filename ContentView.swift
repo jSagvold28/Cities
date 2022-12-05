@@ -30,7 +30,7 @@ struct ContentView: View {
                 }
                 
             }
-            .navigationBarTitle("US Tourist Attractions")
+            .navigationBarTitle("US Attractions")
          //   .font(.title2)
             .padding(.bottom, 15)
         }
