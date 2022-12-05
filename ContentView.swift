@@ -25,11 +25,12 @@ struct ContentView: View {
                 
                 NavigationLink {
                     Orlando()
-                    
                 } label: {
                     Text("Orlando")
                 }
             }
+            .navigationBarTitle("US Attractions")
+            .padding(.bottom, 15)
         }
     }
 }
