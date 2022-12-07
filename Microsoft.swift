@@ -29,7 +29,7 @@ struct Microsoft: View {
                 .fontWeight(.medium)
                 .padding(.bottom, 5)
             
-            Text("Redmond, WAz")
+            Text("Redmond, WA")
                 .font(.system(size: 15.5))
                 .bold()
             
