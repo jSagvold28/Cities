@@ -30,6 +30,13 @@ struct TechCV: View {
                     Text("Microsoft")
                 }
                 
+                
+                NavigationLink {
+                    SteveJobsTheater()
+                } label: {
+                    Text("Steve Jobs Theater")
+                }
+                
             }
             .navigationBarTitle("Tech Attractions")
             .padding(.bottom, 15)
