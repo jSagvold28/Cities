@@ -21,7 +21,7 @@ struct TechCV: View {
                 NavigationLink {
                     TeslaTexas()
                 } label: {
-                    Text("Giga Texas")
+                    Text("Giga Texas (Tesla)")
                 }
                 
                 NavigationLink {
